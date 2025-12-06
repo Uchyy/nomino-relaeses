@@ -44,23 +44,18 @@ Latest available releases:
 
 
 ## 🖼️ Screenshots
-
-Screenshots live in:
-
-```
-/demo/screenshots/
-```
-
-Add gameplay, menu UI, categories page, keyboard, and timer screens here.
-
+![2](/demo/screenshots/2.jpg)
+![3](/demo/screenshots/3.jpg)
+![4](/demo/screenshots/4.jpg)
+![5](/demo/screenshots/5.jpg)
+![6](/demo/screenshots/6.jpg)
+![7](/demo/screenshots/7.jpg)
+![8](/demo/screenshots/8.jpg)
+![9](/demo/screenshots/9.jpg)
+![10](/demo/screenshots/10.jpg)
+![11](/demo/screenshots/11.jpg)
 
 ## 🎥 Demo Clips
-
-Short preview videos live in:
-
-```
-/demo/videos/
-```
 
 
 ## 🛠️ Tech Stack
